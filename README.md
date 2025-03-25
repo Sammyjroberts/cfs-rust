@@ -66,5 +66,3 @@ for details.
 ## Acknowledgments
 
 - NASA for creating and open-sourcing the Core Flight System
-- The Rust community for building such an amazing language
-- Everyone who contributes to this project in any way
