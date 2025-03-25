@@ -50,9 +50,6 @@ Contributions are welcome! Some ways you can help:
 - Improving documentation
 - Providing feedback on the API design
 
-Don't be afraid to experiment or make suggestions - this is a learning project
-for everyone involved.
-
 ## License
 
 This project is licensed under the [MIT License](../LICENSE) - see the LICENSE
